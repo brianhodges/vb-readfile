@@ -1,0 +1,9 @@
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-readfile\vb-readfile\bin\Debug\vb-readfile.exe.config
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-readfile\vb-readfile\bin\Debug\vb-readfile.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-readfile\vb-readfile\bin\Debug\vb-readfile.pdb
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-readfile\vb-readfile\bin\Debug\vb-readfile.xml
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-readfile\vb-readfile\obj\Debug\vb_readfile.Resources.resources
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-readfile\vb-readfile\obj\Debug\vb-readfile.vbproj.GenerateResource.Cache
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-readfile\vb-readfile\obj\Debug\vb-readfile.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-readfile\vb-readfile\obj\Debug\vb-readfile.xml
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-readfile\vb-readfile\obj\Debug\vb-readfile.pdb
